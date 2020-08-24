@@ -1,0 +1,18 @@
+[{
+ "Especie":"ALUA",
+ "Desc":"Aluar", 
+ "Cotización":50.20, 
+ "Fecha_Cot":"24/08/2020"
+},
+{
+ "Especie": "BBAR",
+ "Desc": "Bbva", 
+ "Cotización":143.25, 
+ "Fecha_Cot":"24/08/2020"
+},
+{
+ "Especie": "lala",
+ "Desc": lolo,
+ "Cotización": 120.50,
+ "Fecha_Cot": "24/08/2020"
+}]
